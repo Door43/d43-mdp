@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mdp:home|Door43 (mdp)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mdp|d43-mdp repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mdp/archive/master.zip|d43-mdp.zip]]
+
+**Recent Changes**
+{{changes>ns = mdp}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mdp|Ethnologue data]]
+
